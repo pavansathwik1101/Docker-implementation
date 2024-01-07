@@ -1,1 +1,1 @@
-implementation od docker on a Django app
+implementation of docker on a Django app
